@@ -23,8 +23,8 @@
 <p align="center"><a href="https://cylvestergpt.straw.page">, strawpage '</a>
 <a href="https://operatingsystem.atabook.org/">, ata '</a> <a href="https://discord.gg/EQTAD6WjRX">, webtoon dc server '</a><a href="https://www.youtube.com/@operakai-p">, new youtube '</a></p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=C13E3E&background=2B2E5E63&center=true&vCenter=true&multiline=true&width=800&lines=+++NINE%3A+I+love+you+guys.)](https://git.io/typing-svg)
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=4CC166&background=2B2E5E63&center=true&vCenter=true&multiline=true&width=800&lines=TEN%3A+Love+you+too.)](https://git.io/typing-svg)
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=C1B238&background=2B2E5E63&center=true&vCenter=true&multiline=true&width=800&lines=JUICE%3A+love+y'all+too)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=50000&color=C13E3E&background=2B2E5E63&center=true&vCenter=true&multiline=true&width=800&lines=+++NINE%3A+I+love+you+guys.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=50000&color=4CC166&background=2B2E5E63&center=true&vCenter=true&multiline=true&width=800&lines=TEN%3A+Love+you+too.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=50000&color=C1B238&background=2B2E5E63&center=true&vCenter=true&multiline=true&width=800&lines=JUICE%3A+love+y'all+too)](https://git.io/typing-svg)
 
 <img width="1800" height="500" alt="image" src="https://64.media.tumblr.com/2b34949c1ac29d91779d3e8a0cfa35f5/43b94d9b1541dd9d-a3/s1280x1920/42804eff14fbbd10481ea1ac264de6e9eb1f15da.pnj" />
