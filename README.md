@@ -3,7 +3,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&duration=3000&pause=1000&color=C1B238&background=535E3463&center=true&vCenter=true&width=800&lines=%E1%B4%8A%E1%B4%9C%E1%B4%98%C9%AA%E1%B4%9B%E1%B4%87%CA%80+%C9%AA%E1%B4%84%E1%B4%87%CA%8F+%E1%B4%8D%E1%B4%8F%E1%B4%8F%C9%B4%EA%9C%B1+%E1%B4%87x%E1%B4%98%CA%9F%E1%B4%8F%CA%80%E1%B4%87%CA%80+!!)](https://git.io/typing-svg)
 
-<img width="500" height="100" alt="image" src="https://64.media.tumblr.com/e1444a22c47155eebcde9ccc904ce2dc/bc14ff24f1b9e86b-27/s250x400/5f5d6efc6fbdc72e9a1766213598c652a85bddbf.pnj" />
+<img width="500" height="100" alt="image" src="https://64.media.tumblr.com/e1444a22c47155eebcde9ccc904ce2dc/bc14ff24f1b9e86b-27/s250x400/5f5d6efc6fbdc72e9a1766213598c652a85bddbf.pnj"/> <img width="300" height="100" alt="image" src="https://64.media.tumblr.com/35bcc6570aa27335b4f8d1a23e75ee4e/bc14ff24f1b9e86b-74/s250x400/58c8e447602edf3fa9d4453366487d89887118ab.gifv"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&size=15&duration=2000&pause=900000&color=C49102&center=true&vCenter=true&width=1000&lines=clownhammer,hazardgraft/biohazard,JUICE+%2B+more+hyperfixkin+yo...+twins+are+always+free+to+int!)](https://git.io/typing-svg)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&size=15&duration=2000&pause=900000&color=C49102&center=true&vCenter=true&width=1000&lines=i'm+always+open+to+be+friends!+also%2C+PLEASE+C%2BH+AND+INT!+even+if+i+don't+know+you%2C+go+ahead!)](https://git.io/typing-svg)
