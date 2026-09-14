@@ -11,7 +11,7 @@
 <table>
   <tr>
     <td width="30%">
-      <img src="https://i.pinimg.com/736x/b7/15/f9/b715f900be616f123e4fe7c6f54194b5.jpg" width="100%">
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeDdzknKXFV_Oe1N4wwzylIlpfIydUuSziq2RKY_Qr-g&s=10" width="100%">
     </td>
     <td width="70%" valign="top">
       <h3>SOME INFO ABOUT ME!</h3>
