@@ -1,5 +1,5 @@
 
-<img width="1800" height="500" alt="image" src="https://64.media.tumblr.com/87c01ccd91133cd9f318c97ee35dd3a2/aed7d160041c55a2-2f/s250x400/768257126ea42ca18f8794c9c0d52829198089e4.gif" />
+<img width="1800" height="500" alt="image" src="https://64.media.tumblr.com/3308cda825c4f6d1c7c6244dbe600f4b/22f39055495146f5-5f/s1280x1920/f4a12249b28c15c367ef13cfc1a7b0b4964c4152.pnj" />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=A256F7&center=true&vCenter=true&width=500&lines=Your+verdict+is...;GUILTY!!!)](https://git.io/typing-svg)[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=8E60F7&center=true&vCenter=true&width=500&lines=%F0%9D%99%BC%F0%9D%99%B4%F0%9D%99%B4%F0%9D%9A%83+%F0%9D%9A%88%F0%9D%99%BE%F0%9D%9A%84%F0%9D%9A%81...;%F0%9D%99%B3%F0%9D%99%B4%F0%9D%99%BC%F0%9D%99%B8%F0%9D%9A%82%F0%9D%99%B4+!)](https://git.io/typing-svg)
 
