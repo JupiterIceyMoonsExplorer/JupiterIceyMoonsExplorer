@@ -22,6 +22,18 @@
   </tr>
 </table>
 
+<table>
+  <tr>
+    <td width="30%">
+      <img src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/245390/ss_0a7c5142a5a783aedc64f571b72790d2d89b7e16.1920x1080.jpg?t=1773355242" width="100%">
+    </td>
+    <td width="70%" valign="top">
+      <h3>MY HOBBIES!</h3>
+      <p>I cosplay as a hobby, currently working on a Biograft cosplay! I like singing and voice acting. The most popular thing I voice act for right now is probably The Philippines from Countryronpa (melody's ver!)
+    </td>
+  </tr>
+</table>
+
 <p align="center"><a href="https://cylvestergpt.straw.page">, strawpage '</a>
 <a href="https://operatingsystem.atabook.org/">, ata '</a> <a href="https://discord.gg/EQTAD6WjRX">, webtoon dc server '</a><a href="https://www.youtube.com/@operakai-p">, new youtube '</a><a href="https://www.tumblr.com/nonbntgblogs">, tumblr '</a></p>
 
